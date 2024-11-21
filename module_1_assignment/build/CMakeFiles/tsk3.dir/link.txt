@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tsk3.dir/src/task3.cpp.o -o tsk3
