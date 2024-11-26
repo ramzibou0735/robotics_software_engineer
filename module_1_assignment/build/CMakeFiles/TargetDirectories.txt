@@ -1,5 +1,0 @@
-/home/p/assignment_ws/src/robotics_software_engineer/module_1_assignment/build/CMakeFiles/tsk1.dir
-/home/p/assignment_ws/src/robotics_software_engineer/module_1_assignment/build/CMakeFiles/tsk2.dir
-/home/p/assignment_ws/src/robotics_software_engineer/module_1_assignment/build/CMakeFiles/tsk3.dir
-/home/p/assignment_ws/src/robotics_software_engineer/module_1_assignment/build/CMakeFiles/edit_cache.dir
-/home/p/assignment_ws/src/robotics_software_engineer/module_1_assignment/build/CMakeFiles/rebuild_cache.dir

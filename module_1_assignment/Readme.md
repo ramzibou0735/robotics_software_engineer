@@ -22,5 +22,5 @@
 - **Create a main function where you plug different data types into the template, here char, string and int.**
 
 ## How To Run:
-
+- **First we need to compile the code**, go to `/build` directory inside the package and run `cmake ..` then run `make`.
 - **To run each of the 3 task executables, go to the directory of the assignment 1 by running `~/assignment_ws/src/robotics_software_engineer/module_1_assignments` on your terminal, then run the command `./build/tsk1` last number on the executable corresponding to the task you are interrested in running.**
