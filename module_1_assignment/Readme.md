@@ -20,3 +20,7 @@
 - **Declare a template for the attribute variable of each sensor class, and implement the interface of the builder function and class methods.**
 - **Now create a source file containing the implementation of the class, builder function and methods.**
 - **Create a main function where you plug different data types into the template, here char, string and int.**
+
+## How To Run:
+
+- **To run each of the 3 task executables, go to the directory of the assignment 1 by running `~/assignment_ws/src/robotics_software_engineer/module_1_assignments` on your terminal, then run the command `./build/tsk1` last number on the executable corresponding to the task you are interrested in running.**
